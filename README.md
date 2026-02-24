@@ -1,2 +1,2 @@
 # MagarKura
-Transformer based architecture for Machine Translation(Training &amp; Test Script)
+Training Script fo transformer based Seq2Seq Machine Translation Final Project.
