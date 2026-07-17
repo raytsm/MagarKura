@@ -13,7 +13,9 @@ The project includes the complete training pipeline, from data preprocessing to 
 ## API
 
 The included FastAPI application allows you to easily interact with the trained model.
-Note: checkpoint.pt file should be available for inference before api, follow the steps from [Replicating Training](#Replicating-Training) or take a look at [magarkura_v3.ipynb](magarkura_v3.ipynb) script.
+
+>[!Note]
+> checkpoint.pt file should be available for inference api, follow the steps from [Replicating Training](#Replicating-Training) or take a look at [magarkura_v3.ipynb](magarkura_v3.ipynb) script.
 
 ### 1. Setup
 
